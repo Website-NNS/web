@@ -25,3 +25,4 @@
 <p>Bạn đã mua hàng lúc: <?php  echo $date; ?> </p>
 <p>CHúng tui sẽ xử lý</p>
 <?php include 'inc/footer.php' ;?>
+<!-- hhhhhhhhhhhhh -->
